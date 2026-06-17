@@ -25,10 +25,10 @@ We release our trained SAS backbone models and early-exit sufficiency classifier
 
 | Model Name | Type | Hugging Face Download |
 | :--- | :---: | :---: |
-| **SAS 3B** (Backbone) | Backbone Model | [<img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SAS__3B-blue?style=flat-square">](https://huggingface.co/MgGladys/SAS_3B) |
-| **SAS 3B Classifier** | Sufficiency Classifier | [<img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Classifier-orange?style=flat-square">](https://huggingface.co/MgGladys/SAS_3B_Classifier) |
-| **SAS 7B** (Backbone) | Backbone Model | [<img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SAS__7B-blue?style=flat-square">](https://huggingface.co/MgGladys/SAS_7B) |
-| **SAS 7B Classifier** | Sufficiency Classifier | [<img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Classifier-orange?style=flat-square">](https://huggingface.co/MgGladys/SAS_7B_Classifier) |
+| **SAS 3B** (Backbone) | Backbone Model | [<img src="https://img.shields.io/badge/Hugging%20Face-SAS__3B-blue?logo=huggingface&logoColor=yellow&labelColor=3d3d3d&color=007cc0&style=flat">](https://huggingface.co/MgGladys/SAS_3B) |
+| **SAS 3B Classifier** | Sufficiency Classifier | [<img src="https://img.shields.io/badge/Hugging%20Face-Classifier-orange?logo=huggingface&logoColor=yellow&labelColor=3d3d3d&color=f07f34&style=flat">](https://huggingface.co/MgGladys/SAS_3B_Classifier) |
+| **SAS 7B** (Backbone) | Backbone Model | [<img src="https://img.shields.io/badge/Hugging%20Face-SAS__7B-blue?logo=huggingface&logoColor=yellow&labelColor=3d3d3d&color=007cc0&style=flat">](https://huggingface.co/MgGladys/SAS_7B) |
+| **SAS 7B Classifier** | Sufficiency Classifier | [<img src="https://img.shields.io/badge/Hugging%20Face-Classifier-orange?logo=huggingface&logoColor=yellow&labelColor=3d3d3d&color=f07f34&style=flat">](https://huggingface.co/MgGladys/SAS_7B_Classifier) |
 
 ---
 
